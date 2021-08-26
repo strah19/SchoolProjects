@@ -1,3 +1,3 @@
-# SchoolPython
+# School Projects
 
-All Python related projects done for highschool!
+All projects related to school.
